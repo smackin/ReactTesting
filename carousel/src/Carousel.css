@@ -1,0 +1,16 @@
+.Carousel-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Carousel-main > button {
+  cursor: pointer;
+  margin: 20px;
+  background-color: rgb(74, 8, 188);
+}
+
+.Carousel-main > button:hover {
+  color: yellow;
+  font-size: 50px;
+}
